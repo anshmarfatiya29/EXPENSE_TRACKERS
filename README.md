@@ -180,15 +180,12 @@ Expense Page
 ![alt text](Screenshot/S8.png)
 ![alt text](Screenshot/S9.png)
 
-Reports Download
-
-![alt text](Screenshot/S10.png)
-![alt text](Screenshot/S11.png)
 
 
 📄 License
 
 This project is open-source and free to use for educational purposes.
+
 
 
 
