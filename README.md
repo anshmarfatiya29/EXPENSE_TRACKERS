@@ -1,2 +1,3 @@
-![alt text](screenshot/s1.png)
+![alt text](Screenshot/S1.png)
+
 
