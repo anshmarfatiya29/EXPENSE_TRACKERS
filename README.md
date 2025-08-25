@@ -1,6 +1,7 @@
 Expense Tracker App
 
 A full-stack Expense Tracker Application built with React (frontend) and Node.js + Express + MongoDB (backend).
+
 It helps users securely manage their income and expenses with charts, reports, and intuitive dashboards.
 
 Author: Ansh Marfatiya
@@ -102,6 +103,7 @@ expense-tracker/
 │   │   └── apiPath.js
 │   └── package.json
 │
+
 ├── backend/
 │   ├── controllers/
 │   ├── models/
@@ -114,59 +116,78 @@ expense-tracker/
 
 🚀 How to Run
 1. Clone the repository
-git clone https://github.com/your-username/expense-tracker.git
+git clone https://github.com/anshmarfatiya29/EXPENSE_TRACKERS.git
 cd expense-tracker
 
 2. Setup Backend
+   
 cd backend
+
 npm install
 
 Create .env file in backend with:
 
 MONGO_URI=your_mongodb_connection_string
+
 JWT_SECRET=your_secret_key
+
 PORT=5000
+
 npm start
 
 3. Setup Frontend
+   
 cd frontend
+
 npm install
+
 npm start
 
 4. Open in browser
+   
 http://localhost:XXXX
 
 🛠️ Technologies Used
 
 Frontend: React, Tailwind CSS, Axios
+
 Backend: Node.js, Express.js, JWT, Multer (for profile images)
+
 Database: MongoDB (Mongoose)
+
 Charts: Recharts
 
 📊 Screenshots
 
 Login & Signup Page 
+
 ![alt text](Screenshot/S1.png)
 ![alt text](Screenshot/S2.png)
 
 Dashboard Overview
+
 ![alt text](Screenshot/S3.png)
 ![alt text](Screenshot/S4.png)
 ![alt text](Screenshot/S5.png)
 
 Income Page
+
 ![alt text](Screenshot/S6.png)
 ![alt text](Screenshot/S7.png)
 
 Expense Page
+
 ![alt text](Screenshot/S8.png)
 ![alt text](Screenshot/S9.png)
 
 Reports Download
 
 
+
 📄 License
+
 This project is open-source and free to use for educational purposes.
+
 
 
 
